@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: ac1d1123c893aef4da41f4c392a99162
+  - enabled: 1
+    path: Assets/Scenes/Sim Periodic Boundary.unity
+    guid: a1761555913ca9643b27f45f281c06e2
+  - enabled: 1
+    path: Assets/Scenes/Sim Maze.unity
+    guid: a60d7577722ea0245b1dfe8ca8bf054c
+  - enabled: 1
+    path: Assets/Scenes/Sim Reflective Boundary.unity
+    guid: dedc8c733c7b93b4aa49131c75074e24
+  - enabled: 1
+    path: Assets/Scenes/Sim With Pre Patterning.unity
+    guid: 48a6f012e14f61649b1ccf3ec39cabce
+  - enabled: 1
+    path: Assets/Scenes/Sim Condensation.unity
+    guid: 7a0afde97ffc28249ae0bffb418e0a5c
+  - enabled: 1
+    path: Assets/Scenes/Sim Plasmodial Shrinkage.unity
+    guid: 7a5a3f058dd2e114cb07d113ad3027fc
+  m_configObjects: {}
